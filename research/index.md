@@ -11,6 +11,8 @@ redirect_from: /publications
 
 {% include card-search.html subject="papers" %}
 
+<!-- the research-list.html file defiles the structure of the paper presented--> 
+<!-- Change this html file for the style-->
 {% include research-list.html %}
 
 <!-- section break -->
@@ -22,13 +24,13 @@ redirect_from: /publications
   include big-link.html
   icon="fas fa-book-open"
   text="More on PubMed"
-  link="https://pubmed.ncbi.nlm.nih.gov/?term=Mangul+S&cauthor_id=32183840"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=Koslicki+D&cauthor_id=30832730"
 %}
 {%
   include big-link.html
   icon="fab fa-google"
   text="More on Google Scholar"
-  link="https://scholar.google.com/citations?user=gMGrvhsAAAAJ&hl=en"
+  link="https://scholar.google.com/citations?user=Oz90sQsAAAAJ&hl=en"
 %}
 {% endcapture %}
 
