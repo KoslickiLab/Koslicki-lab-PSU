@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - master
-      - main
-      - shaopeng_edit_publication
     paths:
       - "_data/research-input.yml"
   pull_request:
