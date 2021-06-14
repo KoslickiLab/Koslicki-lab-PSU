@@ -27,4 +27,18 @@ youtube: dmkoslicki ##https://www.youtube.com/channel/UC4ocxPwjndh1c9xr0HyD27Q  
 ---
 [comment]: Fill out your description below 
 
-Waiting for Dr. Koslikci to fill out this part by himself
+ **My passion and main research area is the development
+of efficient algorithms to extract insight from \*-omics data**. This
+puts my research squarely at the intersection of biology, computer science, and mathematics. I am particularly interested in the entire arc of
+developing a computational biology method: rigorous mathematical
+justification of a method, implementing the method into a tool usable by
+the community, applying the tool to pressing scientific problems, and
+finally using the results to inform further development of computational
+techniques.
+
+I have spent the majority of my career developing such computational
+techniques. During this time, I have predominantly worked on the
+**analysis of metagenomic data**, **reference/alignment-free analysis**
+of genomic data, **probabilitic data analysis**, and **knowledge representation and reasoning with graph databases.**
+
+Current hobbies include [astrophotography](https://www.instagram.com/koslickid/), PC gaming, and finding fun regiounal cuisine recipes to make for my wife and daughter. 
