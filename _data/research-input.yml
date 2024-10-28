@@ -58,7 +58,18 @@
 
 #################################### Rxiv version, may need to change in the future
 
-###Preprint: 
+###Full-paper: ANI using FMH
+- id: 10.1101/gr.277651.123
+  image: images/publication/fmh-ani
+  tags:
+    - FracMinHash
+    - ANI
+    - Confidence intervals
+    - Mutation rate
+    - Sketching
+  descriptions: >
+    This paper presents theoretical analysis of FracMinHash, and shows how to obtain an estimate of the evolutionary distance between two genomes using FracMinHash. Our results show that mutation rates determined by our analyses are more accurate across a wider range of evolutionary distances compared to other techniques.
+    
 
 
 
