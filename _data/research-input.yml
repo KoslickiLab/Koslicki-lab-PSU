@@ -58,6 +58,36 @@
 
 #################################### Rxiv version, may need to change in the future
 
+
+
+
+### Paper: cosine estimation using FMH
+- id: 10.4230/LIPIcs.WABI.2024.6
+  image: images/publication/fmh-cosine-estimation.png
+  tags:
+    - FracMinHash
+    - cosine similarity
+    - sketching
+    - theory
+  descriptions: >
+    This paper shows the theoretical analysis which proves that we can safely and accurately estimate the cosine similarity using FracMinHash sketches. The paper also shows a fast and efficient implementation, which is freely available.
+
+
+
+### Full-paper: functional profiling using FMH
+- id: 10.1093/bioinformatics/btae397
+  image: images/publication/functional-profiling.png
+  tags:
+    - FracMinHash
+    - functional profiling
+    - metagenomics
+    - functional annotation
+    - orthologs
+  descriptions: >
+    We present a novel method for functional profiling of metagenomic samples using FracMinHash sketches. Our method is based on the idea of sketching the orthologous gene families in a metagenomic sample and then using these sketches to estimate the functional profile of the sample. We show that our method is more precise (although less sensitive) and faster than the state-of-the-art methods for functional profiling of metagenomic samples.
+
+
+
 ###Full-paper: ANI using FMH
 - id: 10.1101/gr.277651.123
   image: images/publication/fmh-ani.png
