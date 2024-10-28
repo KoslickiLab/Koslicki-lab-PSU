@@ -1,3 +1,27 @@
+- title: Deriving confidence intervals for mutation rates across a wide range of evolutionary
+    distances using FracMinHash
+  authors:
+  - Mahmudur Rahman Hera
+  - N. Tessa Pierce-Ward
+  - David Koslicki
+  publisher: Genome Research
+  date: '2023-06-21'
+  link: https://doi.org/g8pj26
+  id: 10.1101/gr.277651.123
+  image: images/publication/fmh-ani
+  tags:
+  - FracMinHash
+  - ANI
+  - Confidence intervals
+  - Mutation rate
+  - Sketching
+  descriptions: 'This paper presents theoretical analysis of FracMinHash, and shows
+    how to obtain an estimate of the evolutionary distance between two genomes using
+    FracMinHash. Our results show that mutation rates determined by our analyses are
+    more accurate across a wider range of evolutionary distances compared to other
+    techniques.
+
+    '
 - title: 'ARAX: a graph-based modular reasoning tool for translational biomedicine'
   authors:
   - Amy K. Glen
@@ -336,176 +360,6 @@
   - Andrew I. Su
   - Guangrong Qin
   - Qian Zhu
-  - Liliana Acevedo
-  - Stanley C. Ahalt
-  - John Alden
-  - Ahmed Alkanaq
-  - Nada Amin
-  - Ricardo Avila
-  - Michael Bada
-  - Jim Balhoff
-  - Andrew Baumgartner
-  - William Baumgartner
-  - Basazin Belhu
-  - Mac Kenzie Brandes
-  - Namdi Brandon
-  - Matthew Brush
-  - Richard Bruskiewich
-  - Noel Burtt
-  - Jackson Callaghan
-  - Marco Alvarado Cano
-  - Steven Carrell
-  - J. Harry Caufield
-  - Remzi Celebi
-  - James Champion
-  - Zhehuan Chen
-  - "Mei\u2010Jan Chen"
-  - Lawrence Chung
-  - Paul A. Clemons
-  - Kevin Cohen
-  - Tom Conlin
-  - Dan Corkill
-  - Maria Costanzo
-  - Steven Cox
-  - Andrew Crouse
-  - Camerron Crowder
-  - Mary E. Crumbley
-  - Cheng Dai
-  - Ricardo De Miranda Azevedo
-  - Eric Deutsch
-  - Jennifer Dougherty
-  - Venkata Duvvuri
-  - Stephen Edwards
-  - Vincent Emonet
-  - Nathaniel Fehrmann
-  - Jason Flannick
-  - Aleksandra M. Foksinska
-  - Vicki Gardner
-  - Edgar Gatica
-  - Amy Glen
-  - Prateek Goel
-  - Joseph Gormley
-  - Alon Greyber
-  - Perry Haaland
-  - Melissa A. Haendel
-  - Kristina Hanspers
-  - Kaiwen He
-  - Jeff Henrickson
-  - Maureen Hoatlin
-  - Andrew Hoffman
-  - Conrad Huang
-  - Robert Hubal
-  - "Kenneth Huellas\u2010Bruskiewicz"
-  - Forest B. Huls
-  - Lawrence Hunter
-  - Tursynay Issabekova
-  - Matthew Jarrell
-  - Lindsay Jenkins
-  - Arpita Joshi
-  - Jimin Kang
-  - Richa Kanwar
-  - Yaphet Kebede
-  - Keum Joo Kim
-  - Alexandria Kluge
-  - Michael Knowles
-  - Ryan Koesterer
-  - Daniel Korn
-  - David Koslicki
-  - Ashok Krishnamurthy
-  - Lindsey Kvarfordt
-  - Jay Lee
-  - Margaret Leigh
-  - Jason Lin
-  - Zheng Liu
-  - Shaopeng Liu
-  - Chunyu Ma
-  - Andrew Magis
-  - Tarun Mamidi
-  - Meisha Mandal
-  - Michelle Mantilla
-  - Jeffrey Massung
-  - Denise Mauldin
-  - Jason McClelland
-  - Julie McMurry
-  - Philip Mease
-  - Luis Mendoza
-  - Marian Mersmann
-  - Abrar Mesbah
-  - Matthew Might
-  - Kenny Morton
-  - Sierra A. T. Moxon
-  - Sandrine Muller
-  - Arun Teja Muluka
-  - Christopher J. Mungall
-  - John Osborne
-  - Phil Owen
-  - Michael Patton
-  - David B. Peden
-  - R. Carter Peene
-  - Bria Persaud
-  - Emily Pfaff
-  - Alexander Pico
-  - Elizabeth Pollard
-  - Guthrie Price
-  - Tim Putman
-  - Shruti Raj
-  - Stephen A. Ramsey
-  - Jason Reilly
-  - Anders Riutta
-  - Jared Roach
-  - Greg Rosenblatt
-  - Irit Rubin
-  - Sienna Rucka
-  - "Nathaniel Rudavsky\u2010Brody"
-  - Rayn Sakaguchi
-  - Eugene Santos
-  - Kevin Schaper
-  - Charles P. Schmitt
-  - Shepherd Schurman
-  - Erik Scott
-  - Sarah Seitanakis
-  - Priya Sharma
-  - Kent A. Shefchek
-  - Ilya Shmulevich
-  - Manil Shrestha
-  - Shalki Shrivastava
-  - Meghamala Sinha
-  - Brett Smith
-  - Harold Solbrig
-  - Karthik Soman
-  - Nicholas Southern
-  - Lisa Stillwell
-  - "Michael \u201C Michi\u201D Strasser"
-  - Anne E. Thessen
-  - Jillian Tinglin
-  - Lucas Tonstad
-  - "Thi Tran\u2010Nguyen"
-  - Alexander Tropsha
-  - Deepak R. Unni
-  - Gaurav Vaidya
-  - Luke Veenhuis
-  - Adam Viola
-  - Marcin von Grotthuss
-  - Max Wang
-  - Patrick Wang
-  - Rosina Weber
-  - Qi Wei
-  - Chunhua Weng
-  - Jordan Whitlock
-  - Andrew Williams
-  - Finn Womack
-  - Erica Wood
-  - Chunlei Wu
-  - Jiwen Kevin Xin
-  - Colleen Xu
-  - Chase Yakaboski
-  - Yao Yao
-  - Hong Yi
-  - Arif Yilmaz
-  - Marissa Zheng
-  - Xinghua Zhou
-  - Eric Zhou
-  - Tom Zisk
   - ' '
   publisher: Clinical and Translational Science
   date: '2022-06-06'
@@ -710,178 +564,6 @@
   - Melissa A. Haendel
   - Chris Bizon
   - Christopher J. Mungall
-  - Liliana Acevedo
-  - Stanley C. Ahalt
-  - John Alden
-  - Ahmed Alkanaq
-  - Nada Amin
-  - Ricardo Avila
-  - Jim Balhoff
-  - Sergio E. Baranzini
-  - Andrew Baumgartner
-  - William Baumgartner
-  - Basazin Belhu
-  - MacKenzie Brandes
-  - Namdi Brandon
-  - Noel Burtt
-  - William Byrd
-  - Jackson Callaghan
-  - Marco Alvarado Cano
-  - Steven Carrell
-  - Remzi Celebi
-  - James Champion
-  - Zhehuan Chen
-  - "Mei\u2010Jan Chen"
-  - Lawrence Chung
-  - Kevin Cohen
-  - Tom Conlin
-  - Dan Corkill
-  - Maria Costanzo
-  - Steven Cox
-  - Andrew Crouse
-  - Camerron Crowder
-  - Mary E. Crumbley
-  - Cheng Dai
-  - "Vlado Dan\u010D\xEDk"
-  - Ricardo De Miranda Azevedo
-  - Eric Deutsch
-  - Jennifer Dougherty
-  - Marc P. Duby
-  - Venkata Duvvuri
-  - Stephen Edwards
-  - Vincent Emonet
-  - Nathaniel Fehrmann
-  - Jason Flannick
-  - Aleksandra M. Foksinska
-  - Vicki Gardner
-  - Edgar Gatica
-  - Amy Glen
-  - Prateek Goel
-  - Joseph Gormley
-  - Alon Greyber
-  - Perry Haaland
-  - Kristina Hanspers
-  - Kaiwen He
-  - Kaiwen He
-  - Jeff Henrickson
-  - Eugene W. Hinderer
-  - Maureen Hoatlin
-  - Andrew Hoffman
-  - Sui Huang
-  - Conrad Huang
-  - Robert Hubal
-  - "Kenneth Huellas\u2010Bruskiewicz"
-  - Forest B. Huls
-  - Lawrence Hunter
-  - Greg Hyde
-  - Tursynay Issabekova
-  - Matthew Jarrell
-  - Lindsay Jenkins
-  - Adam Johs
-  - Jimin Kang
-  - Richa Kanwar
-  - Yaphet Kebede
-  - Keum Joo Kim
-  - Alexandria Kluge
-  - Michael Knowles
-  - Ryan Koesterer
-  - Daniel Korn
-  - David Koslicki
-  - Ashok Krishnamurthy
-  - Lindsey Kvarfordt
-  - Jay Lee
-  - Margaret Leigh
-  - Jason Lin
-  - Zheng Liu
-  - Shaopeng Liu
-  - Chunyu Ma
-  - Andrew Magis
-  - Tarun Mamidi
-  - Meisha Mandal
-  - Michelle Mantilla
-  - Jeffrey Massung
-  - Denise Mauldin
-  - Jason McClelland
-  - Julie McMurry
-  - Philip Mease
-  - Luis Mendoza
-  - Marian Mersmann
-  - Abrar Mesbah
-  - Matthew Might
-  - Kenny Morton
-  - Sandrine Muller
-  - Arun Teja Muluka
-  - John Osborne
-  - Phil Owen
-  - Michael Patton
-  - David B. Peden
-  - R. Carter Peene
-  - Bria Persaud
-  - Emily Pfaff
-  - Alexander Pico
-  - Elizabeth Pollard
-  - Guthrie Price
-  - Shruti Raj
-  - Jason Reilly
-  - Anders Riutta
-  - Jared Roach
-  - Ryan T. Roper
-  - Greg Rosenblatt
-  - Irit Rubin
-  - Sienna Rucka
-  - "Nathaniel Rudavsky\u2010Brody"
-  - Rayn Sakaguchi
-  - Eugene Santos
-  - Kevin Schaper
-  - Charles P. Schmitt
-  - Shepherd Schurman
-  - Erik Scott
-  - Sarah Seitanakis
-  - Priya Sharma
-  - Ilya Shmulevich
-  - Manil Shrestha
-  - Shalki Shrivastava
-  - Meghamala Sinha
-  - Brett Smith
-  - Noel Southall
-  - Nicholas Southern
-  - Lisa Stillwell
-  - Michael " Michi" Strasser
-  - Andrew I. Su
-  - Casey Ta
-  - Anne E. Thessen
-  - Jillian Tinglin
-  - Lucas Tonstad
-  - "Thi Tran\u2010Nguyen"
-  - Alexander Tropsha
-  - Gaurav Vaidya
-  - Luke Veenhuis
-  - Adam Viola
-  - Marcin von Grotthuss
-  - Max Wang
-  - Patrick Wang
-  - Paul B. Watkins
-  - Rosina Weber
-  - Qi Wei
-  - Chunhua Weng
-  - Jordan Whitlock
-  - Mark D. Williams
-  - Andrew Williams
-  - Finn Womack
-  - Erica Wood
-  - Chunlei Wu
-  - Jiwen Kevin Xin
-  - Hao Xu
-  - Colleen Xu
-  - Chase Yakaboski
-  - Yao Yao
-  - Hong Yi
-  - Arif Yilmaz
-  - Marissa Zheng
-  - Xinghua Zhou
-  - Eric Zhou
-  - Qian Zhu
-  - Tom Zisk
   - ' '
   publisher: Clinical and Translational Science
   date: '2022-06-06'
@@ -938,7 +620,7 @@
   - type: source
     link: https://github.com/dkoslicki/PressPurt
     text: Github
-- title: The Statistics of <i>k</i>-mers from a Sequence Undergoing a Simple Mutation
+- title: The Statistics of<i>k</i>-mers from a Sequence Undergoing a Simple Mutation
     Process Without Spurious Matches
   authors:
   - Antonio Blanca
@@ -972,7 +654,7 @@
   authors:
   - Wei Wei
   - David Koslicki
-  publisher: "Schloss Dagstuhl - Leibniz-Zentrum f\xFCr Informatik"
+  publisher: "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\xFCr Informatik"
   date: '2022-01-01'
   link: https://doi.org/gq6hdq
   id: 10.4230/LIPIcs.WABI.2022.15
@@ -1650,19 +1332,20 @@
   - type: preprint
     link: https://koslicki.math.oregonstate.edu/sites/koslicki.math.oregonstate.edu/files/ARKCombined.pdf
     text: Preprint
-- title: 'SEK: sparsity exploiting k-mer-based estimation of bacterial community composition'
+- title: 'SEK: sparsity exploiting <i>k</i>-mer-based estimation of bacterial community
+    composition'
   authors:
-  - S. Chatterjee
-  - D. Koslicki
-  - S. Dong
-  - N. Innocenti
-  - L. Cheng
-  - Y. Lan
-  - M. Vehkapera
-  - M. Skoglund
-  - L. K. Rasmussen
-  - E. Aurell
-  - J. Corander
+  - Saikat Chatterjee
+  - David Koslicki
+  - Siyuan Dong
+  - Nicolas Innocenti
+  - Lu Cheng
+  - Yueheng Lan
+  - "Mikko Vehkaper\xE4"
+  - Mikael Skoglund
+  - Lars K. Rasmussen
+  - Erik Aurell
+  - Jukka Corander
   publisher: Bioinformatics
   date: '2014-05-07'
   link: https://doi.org/f24xkh
@@ -1697,7 +1380,7 @@
   - Siegfried Wassertheurer
   - Armando J. Pinho
   - David Koslicki
-  publisher: Interactive Knowledge Discovery and Data Mining in Biomedical Informatics
+  publisher: Lecture Notes in Computer Science
   date: '2014-01-01'
   link: https://doi.org/gktj5m
   id: 10.1007/978-3-662-43968-5_12
