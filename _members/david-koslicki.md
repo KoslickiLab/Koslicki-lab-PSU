@@ -39,6 +39,6 @@ techniques.
 I have spent the majority of my career developing such computational
 techniques. During this time, I have predominantly worked on the
 **analysis of metagenomic data**, **reference/alignment-free analysis**
-of genomic data, **probabilitic data analysis**, and **knowledge representation and reasoning with graph databases.**
+of genomic data, **probabilistic data analysis**, and **knowledge representation and reasoning with graph databases.**
 
 Current hobbies include [astrophotography](https://www.instagram.com/koslickid/), PC gaming, and finding fun regiounal cuisine recipes to make for my wife and daughter. 
