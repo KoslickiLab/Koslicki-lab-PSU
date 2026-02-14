@@ -41,4 +41,4 @@ techniques. During this time, I have predominantly worked on the
 **analysis of metagenomic data**, **reference/alignment-free analysis**
 of genomic data, **probabilistic data analysis**, and **knowledge representation and reasoning with graph databases.**
 
-Current hobbies include [astrophotography](https://www.instagram.com/koslickid/), PC gaming, and finding fun regiounal cuisine recipes to make for my wife and daughter. 
+Current hobbies include [astrophotography](https://app.astrobin.com/u/dkoslicki), PC gaming, and finding fun regiounal cuisine recipes to make for my wife and daughter. 
