@@ -59,6 +59,39 @@
 #################################### Rxiv version, may need to change in the future
 
 
+### sub-linear kmer sampling algorithm: 10.1101/2025.11.11.687920
+- id: 10.1101/2025.11.11.687920
+  tags:
+    - k-mer
+    - sampling
+    - sub-linear
+  descriptions: >
+    This paper presents a sub-linear k-mer sampling algorithm that can efficiently sample k-mers from large datasets.
+
+
+
+### dnds using fracminhash: 10.1101/2025.11.12.688019
+- id: 10.1101/2025.11.12.688019
+  tags:
+    - dN/dS
+    - FracMinHash
+    - k-mer
+  descriptions: >
+    This paper shows how to estimate dN/dS ratios using FracMinHash sketches.
+
+
+
+### subst and indel rates: 10.1101/2025.05.14.653858
+- id: 10.1101/2025.05.14.653858
+  tags:
+    - substitution
+    - indel
+    - k-mer
+  descriptions: >
+    This paper shows how to estimate substitution and indel rates using k-mer methods.
+
+
+
 ### Paper: similarity estimation using FMH
 - id: 10.1186/s13015-025-00276-8
   image: images/publication/fmh-similarity.png
