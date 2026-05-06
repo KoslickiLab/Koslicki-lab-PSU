@@ -1,3 +1,59 @@
+- title: 'MaxGeomHash: An Algorithm for Variable-Size Random Sampling of Distinct
+    Elements'
+  authors:
+  - Mahmudur Rahman Hera
+  - David Koslicki
+  - "Conrado Mart\xEDnez"
+  publisher: openRxiv
+  date: '2025-11-13'
+  link: https://doi.org/hb2sgd
+  id: 10.1101/2025.11.11.687920
+  tags:
+  - k-mer
+  - sampling
+  - sub-linear
+  descriptions: 'This paper presents a sub-linear k-mer sampling algorithm that can
+    efficiently sample k-mers from large datasets.
+
+    '
+- title: "Leveraging FracMinHash Containment for Genomic\n                  <i>d</i>\n\
+    \                  <sub>\n                    <i>N</i>\n                  </sub>\n\
+    \                  /\n                  <i>d</i>\n                  <sub>\n  \
+    \                  <i>S</i>\n                  </sub>"
+  authors:
+  - Judith S. Rodriguez
+  - Mahmudur Rahman Hera
+  - David Koslicki
+  publisher: openRxiv
+  date: '2025-11-13'
+  link: https://doi.org/hb2sgf
+  id: 10.1101/2025.11.12.688019
+  tags:
+  - dN/dS
+  - FracMinHash
+  - k-mer
+  descriptions: 'This paper shows how to estimate dN/dS ratios using FracMinHash sketches.
+
+    '
+- title: "Estimation of substitution and indel rates via\n                  <i>k</i>\n\
+    \                  -mer statistics"
+  authors:
+  - Mahmudur Rahman Hera
+  - Paul Medvedev
+  - David Koslicki
+  - Antonio Blanca
+  publisher: openRxiv
+  date: '2025-05-17'
+  link: https://doi.org/hb2sgg
+  id: 10.1101/2025.05.14.653858
+  tags:
+  - substitution
+  - indel
+  - k-mer
+  descriptions: 'This paper shows how to estimate substitution and indel rates using
+    k-mer methods.
+
+    '
 - title: Estimating similarity and distance using FracMinHash
   authors:
   - Mahmudur Rahman Hera
