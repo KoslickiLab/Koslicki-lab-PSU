@@ -67,6 +67,7 @@
     - similarity
     - sketching
     - k-mer
+    - sampling
   descriptions: >
     This paper shows the theoretical analysis of estimating a number of different similarity measures using FracMinHash sketches.
 
